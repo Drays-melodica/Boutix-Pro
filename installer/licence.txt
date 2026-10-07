@@ -1,0 +1,103 @@
+CONTRAT DE LICENCE D'UTILISATION
+BOUTIX PRO
+Gestion boutique & caisse
+
+Version 1.0.9
+Développeur : IDRISS EL-HIMER
+Site : www.draysmelodica.com
+
+En installant, copiant ou utilisant BOUTIX PRO, vous acceptez
+les termes du présent contrat. Si vous n'acceptez pas ces termes,
+n'installez pas et n'utilisez pas le logiciel.
+
+
+1. NATURE DU LOGICIEL
+
+*** LOGICIEL LIBRE, GRATUIT ET OUVERT ***
+
+BOUTIX PRO est un logiciel libre, gratuit et ouvert.
+Il est offert à tous, sans frais.
+
+Utilisation gratuite pour tout le monde.
+NE PAS ACHETER ce logiciel — il est offert.
+La vente ou la revente de BOUTIX PRO est INTERDITE.
+
+
+2. DROIT D'UTILISATION
+
+Vous êtes autorisé, à titre gratuit, à :
+
+  - installer et utiliser BOUTIX PRO sur autant d'ordinateurs
+    que vous le souhaitez ;
+  - l'utiliser à des fins personnelles, associatives,
+    éducatives ou professionnelles ;
+  - copier et partager le logiciel, à condition que cette
+    distribution reste gratuite et que le présent contrat
+    accompagne le logiciel.
+
+
+3. RESTRICTIONS
+
+Il est INTERDIT de :
+
+  - vendre, revendre, louer, sous-licencier ou commercialiser
+    BOUTIX PRO, seul ou intégré à une offre payante ;
+  - exiger un paiement, une commission ou une contrepartie
+    financière en échange du logiciel, de son installation
+    ou de son activation ;
+  - retirer, modifier ou dissimuler les mentions de licence,
+    de gratuité, d'auteur ou de copyright ;
+  - présenter BOUTIX PRO comme un produit payant, ou laisser
+    croire qu'un achat est nécessaire pour l'utiliser.
+
+
+4. PROPRIÉTÉ
+
+BOUTIX PRO reste la propriété de son développeur,
+IDRISS EL-HIMER. La présente licence ne vous transfère
+aucun droit de propriété sur le logiciel. Elle vous
+accorde uniquement un droit d'utilisation personnel,
+non exclusif et gratuit, conformément aux conditions
+ci-dessus.
+
+
+5. ABSENCE DE GARANTIE
+
+BOUTIX PRO est fourni « EN L'ÉTAT », sans garantie d'aucune
+sorte, expresse ou implicite, y compris, sans s'y limiter,
+les garanties de qualité marchande, d'adéquation à un usage
+particulier et d'absence de contrefaçon.
+
+L'utilisation du logiciel se fait à vos risques et périls.
+Le développeur ne garantit pas que le logiciel sera exempt
+d'erreurs, ininterrompu, ou adapté à vos besoins.
+
+
+6. LIMITATION DE RESPONSABILITÉ
+
+En aucun cas le développeur ne pourra être tenu responsable
+de tout dommage direct, indirect, accessoire, spécial,
+consécutif ou punitif (perte de données, perte de chiffre
+d'affaires, interruption d'activité, etc.) résultant de
+l'utilisation ou de l'impossibilité d'utiliser BOUTIX PRO,
+même s'il a été informé de la possibilité de tels dommages.
+
+
+7. DONNÉES
+
+Vous restez seul responsable des données saisies, stockées
+ou imprimées via BOUTIX PRO (stocks, ventes, clients,
+paramètres de société, etc.). Il vous appartient d'effectuer
+des sauvegardes régulières.
+
+
+8. CONTACT
+
+Développeur : IDRISS EL-HIMER
+WhatsApp    : +213 799 89 45 69
+Site web    : https://www.draysmelodica.com
+
+
+Copyright (c) 2026 IDRISS EL-HIMER.
+Tous droits réservés, sous réserve des libertés accordées
+par le présent contrat.
